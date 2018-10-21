@@ -9,4 +9,9 @@ spring-boot集成spring-session-data-redis： https://www.cnblogs.com/mengmeng89
 
 https://blog.csdn.net/usagoole/article/details/80639804
 
+#-redis 配置的一相关文档
+https://blog.csdn.net/weixin_39723544/article/details/80743074
+https://www.cnblogs.com/zeng1994/p/03303c805731afc9aa9c60dbbd32a323.html
+https://blog.csdn.net/u012943767/article/details/79360748
+
  
